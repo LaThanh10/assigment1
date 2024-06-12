@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScoreKeeper
       objectReference: {fileID: 0}
+    - target: {fileID: 7754695456513130249, guid: fa93e92eaac182d45b927d8c8165f088, type: 3}
+      propertyPath: isDestroyOnLoad
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7754695456513130250, guid: fa93e92eaac182d45b927d8c8165f088, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -3895,6 +3899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15b77bf4e59395f4187588a9bb8f6a7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isDestroyOnLoad: 1
 --- !u!1 &2073950732
 GameObject:
   m_ObjectHideFlags: 0

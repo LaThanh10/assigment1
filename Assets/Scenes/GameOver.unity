@@ -1287,6 +1287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScoreKeeper
       objectReference: {fileID: 0}
+    - target: {fileID: 7754695456513130249, guid: fa93e92eaac182d45b927d8c8165f088, type: 3}
+      propertyPath: isDestroyOnLoad
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7754695456513130250, guid: fa93e92eaac182d45b927d8c8165f088, type: 3}
       propertyPath: m_RootOrder
       value: 6

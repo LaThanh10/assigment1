@@ -717,7 +717,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26.55
+  m_fontSize: 26.15
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1334,6 +1334,10 @@ PrefabInstance:
     - target: {fileID: 7754695456513130248, guid: fa93e92eaac182d45b927d8c8165f088, type: 3}
       propertyPath: m_Name
       value: ScoreKeeper
+      objectReference: {fileID: 0}
+    - target: {fileID: 7754695456513130249, guid: fa93e92eaac182d45b927d8c8165f088, type: 3}
+      propertyPath: isDestroyOnLoad
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7754695456513130250, guid: fa93e92eaac182d45b927d8c8165f088, type: 3}
       propertyPath: m_RootOrder
